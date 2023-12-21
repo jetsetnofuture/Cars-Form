@@ -1,4 +1,4 @@
-# ReactReduxBasics-CarsForm
+# Cars Form
 A page that allows users to add, search for, and delete car listings with a name and price. Made with React and Redux.
 
 ## How to Use
